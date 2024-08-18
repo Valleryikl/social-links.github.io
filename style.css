@@ -65,7 +65,7 @@ main {
     background: rgb(51, 51, 51);
     color: rgb(255, 255, 255);
     transition: all .3s ease-in-out;
-    font-weight  : 700;
+    font-weight: 600;
 }
 .socialmed_item:hover {
     background-color: rgb(196, 248, 42);
